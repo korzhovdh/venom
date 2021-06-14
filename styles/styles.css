@@ -90,7 +90,7 @@ img {
 
 .blood {
   background: url("../img/blood.png") no-repeat top right / 70%,
-    url("../img/background.jpg") no-repeat center / 100%;
+    url("../img/background.jpg") no-repeat center center/100%;
   background-color: #14131a;
 }
 .primary-bg {
